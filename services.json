@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Web Design",
+    "image": "./images/service02.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore eius veniam sequi reiciendis illo atque! Saepe, fuga delectus. Repellendus, sint."
+  },
+  {
+    "id": 2,
+    "name": "Web Development",
+    "image": "./images/service01.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore eius veniam sequi reiciendis illo atque! Saepe, fuga delectus. Repellendus, sint."
+  },
+  {
+    "id": 3,
+    "name": "Graphics Design",
+    "image": "./images/service03.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore eius veniam sequi reiciendis illo atque! Saepe, fuga delectus. Repellendus, sint."
+  },
+  {
+    "id": 4,
+    "name": "Photography",
+    "image": "./images/service01.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore eius veniam sequi reiciendis illo atque! Saepe, fuga delectus. Repellendus, sint."
+  },
+  {
+    "id": 5,
+    "name": "Traveling",
+    "image": "./images/service03.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore eius veniam sequi reiciendis illo atque! Saepe, fuga delectus. Repellendus, sint."
+  },
+  {
+    "id": 6,
+    "name": "Gaming",
+    "image": "./images/service02.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore eius veniam sequi reiciendis illo atque! Saepe, fuga delectus. Repellendus, sint."
+  }
+]
